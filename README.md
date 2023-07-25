@@ -5,5 +5,8 @@
 •	Utilized the Replicate API to interface with the ControlNet model efficiently and achieve seamless image generation.
 
 
-![image](https://github.com/Atulaya123/scribble-generative-ai/assets/115982827/ff1b0a67-4411-43fb-8147-d7455d99c16d)
-![image](https://github.com/Atulaya123/scribble-generative-ai/assets/115982827/cf69680e-f33e-41f4-86e9-909ed7083739)
+![6f6529ca-8071-44cf-952a-ce52117ff3cb](https://github.com/Atulaya123/scribble-generative-ai/assets/115982827/f0235b14-ca47-4fde-8aa8-7052ed973dc7)
+
+![fecd7e59-caed-4d77-85fe-4f6094fc948e](https://github.com/Atulaya123/scribble-generative-ai/assets/115982827/5db63aad-7057-4694-a8a5-81cdd08abec4)
+
+
